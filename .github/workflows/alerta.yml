@@ -20,5 +20,5 @@ jobs:
         run: |
           curl -H "Title: Nuevo Push en main" \
                -H "Priority: high" \
-               -d "Se ha subido código al repositorio en la rama main." \
+               -d "Se ha subido código al repositorio en la rama main por Tomas Alvarez 2023-1023." \
                https://ntfy.sh/devops-itla
